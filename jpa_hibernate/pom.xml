@@ -7,7 +7,8 @@
   <version>1.0-SNAPSHOT</version>
   <packaging>jar</packaging>
 
-  <name>jpa_hibernate</name>
+  <name>Projeto Admin Demo</name>
+  <description>Projeto Administrativo para cadastros de Clientes e Produtos usando Hibernate e JPA  </description>
   <url>http://maven.apache.org</url>
 
   <properties>
