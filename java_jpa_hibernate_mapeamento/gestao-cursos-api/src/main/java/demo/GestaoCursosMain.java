@@ -1,4 +1,4 @@
-package com.techcamps.gestao.cursos.demo;
+package demo;
 
 import com.techcamps.gestao.cursos.entities.*;
 import com.techcamps.gestao.cursos.models.AlunoModel;
