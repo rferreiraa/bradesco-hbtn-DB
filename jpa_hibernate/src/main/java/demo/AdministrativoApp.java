@@ -2,8 +2,8 @@ package demo;
 
 import entities.Pessoa;
 import entities.Produto;
-import model.PessoaModel;
-import model.ProdutoModel;
+import models.PessoaModel;
+import models.ProdutoModel;
 
 import java.util.Date;
 import java.util.List;
