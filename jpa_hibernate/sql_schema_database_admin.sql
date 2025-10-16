@@ -1,0 +1,2 @@
+CREATE TABLE pessoas (id  integer, cpf varchar(255) not null, dataNascimento date, email varchar(255) not null, idade integer not null, nome varchar(255) not null, primary key (id), unique (cpf), unique (email))
+CREATE TABLE produtos (id  integer, nome varchar(255) not null, preco double precision not null, quantidade integer not null, status boolean not null, primary key (id))
