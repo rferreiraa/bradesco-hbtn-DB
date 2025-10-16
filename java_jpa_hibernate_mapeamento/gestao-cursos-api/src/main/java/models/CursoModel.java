@@ -1,7 +1,6 @@
-package com.techcamps.gestao.cursos.models;
+package models;
 
-import com.techcamps.gestao.cursos.entities.Aluno;
-import com.techcamps.gestao.cursos.entities.Curso;
+import entities.Curso;
 
 import javax.persistence.EntityManager;
 import javax.persistence.EntityManagerFactory;

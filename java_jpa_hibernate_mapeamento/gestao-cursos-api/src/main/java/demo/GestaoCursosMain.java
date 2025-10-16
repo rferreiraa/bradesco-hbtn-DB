@@ -1,8 +1,9 @@
 package demo;
 
-import com.techcamps.gestao.cursos.entities.*;
-import com.techcamps.gestao.cursos.models.AlunoModel;
-import com.techcamps.gestao.cursos.models.CursoModel;
+import models.AlunoModel;
+import models.CursoModel;
+import entities.*;
+
 import java.util.Date;
 
 public class GestaoCursosMain {
